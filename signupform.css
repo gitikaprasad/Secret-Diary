@@ -1,0 +1,61 @@
+body{
+	background: url("background2.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight:bold;
+	vertical-align:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	text-align:left;
+	color:white;
+}
+h1{
+	text-align:center;
+	text-decoration:underline;
+	margin-bottom:50px;
+	margin-top:30px;
+}
+input{
+	width:50%;
+	margin:20 auto;
+	
+
+}
+.errormsg
+{
+	color:red;
+	font-size:85%;
+}
+.superscript{
+	vertical-align:super;
+}
+.successmsg
+{
+	color:green;
+	font-weight:bold;
+	font-size:20px;
+}
+#email
+{
+	width:40%;
+	
+}
+#password
+{
+	width:40%;
+	
+}
+
+#name
+{
+	width:40%;
+	
+}
+#confirmpassword
+{
+	width:40%;
+	
+}
+
